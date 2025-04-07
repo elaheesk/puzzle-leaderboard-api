@@ -32,7 +32,7 @@ In Authorization header add Bearer <API_TOKEN>
 * POST /scores: Submit a player's score (adds to their total).
 ex: {
   "name": "Alice",
-  "score": 1500
+  "scores": 1500
 }
 
 *GET /leaderboard
